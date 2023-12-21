@@ -29,10 +29,11 @@ Identify patterns, outliers, and potential correlations between variables.
 
 
 Repository Contents
-* Data: Contains datasets used for analysis.
-* Notebooks: Jupyter notebooks detailing the entire analysis process, from data preprocessing to model building and evaluation.
-* Reports: Summarized reports, visualizations, and key findings in pdf format
-* Code: Scripts and code snippets used in the analysis.
+1. Data: Contains datasets used for analysis.
+2. Notebooks: Jupyter notebooks detailing the entire analysis process, from data preprocessing to model building and evaluation.
+3. Reports: Summarized reports, visualizations, and key findings in pdf format
+4. Code: Scripts and code snippets used in the analysis.
+
 Key Findings
 Upon completion of the analysis, we aim to provide with actionable insights and recommendations based on our findings. 
 The outcomes of this project will not only assist in optimizing their operations but also contribute valuable knowledge to the broader micro-mobility landscape.
